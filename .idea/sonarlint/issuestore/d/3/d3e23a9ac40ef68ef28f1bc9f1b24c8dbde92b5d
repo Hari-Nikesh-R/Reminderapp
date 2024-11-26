@@ -1,0 +1,8 @@
+
+>kotlin:S1128
+"Remove this unused import.(é¢êáüÿÿÿÿ8ª˜™Ë¶2
+>kotlin:S1128"Remove this unused import.(½ùÒ»ÿÿÿÿÿ8«˜™Ë¶2
+>kotlin:S1128"Remove this unused import.(™©˜Òşÿÿÿÿ8òñ’Ë¶2
+ykotlin:S11921"ZDefine a constant instead of duplicating this literal "XXXXXHello Android!XXXXX " 3 times.(œÍ€¢8ÚÙ¥Ë¶2
+wkotlin:S11924"XDefine a constant instead of duplicating this literal "---------------- World!" 3 times.(Êü™8ÚÙ¥Ë¶2
+hkotlin:S11929"IDefine a constant instead of duplicating this literal "Click me" 3 times.(‰¬£8ÚÙ¥Ë¶2
