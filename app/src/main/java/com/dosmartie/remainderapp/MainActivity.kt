@@ -91,7 +91,7 @@ class MainActivity : ComponentActivity() {
   }
 }
 
-@Composable fun PrinterScreen(viewModel: PrinterViewModel) {
+@RequiresApi(Build.VERSION_CODES.S) @Composable fun PrinterScreen(viewModel: PrinterViewModel) {
   var textToPrint by remember { mutableStateOf("") }
   val activity = LocalContext.current as Activity
 
